@@ -19,16 +19,12 @@ body {
     text-decoration: none;
 }
 
-
 header {
     display: flex;
     justify-content: space-between;
     padding: 8px;
 }
 
-ul a {
-    
-}
 
 nav ul {
     list-style: none;
