@@ -3,6 +3,16 @@ body {
   margin: 0;
 }
 
+
+#button {
+    background-color: #3882F6;
+    border: solid 2px #F9FAF8;
+    border-radius: 10px;
+    color: #F9FAF8;
+    width: 100px;
+    height: 35px;
+}
+
 .header-section {
     height: 400px;
     background-color: #1F2937;
@@ -114,14 +124,6 @@ h2 {
     align-items: center;
 }
 
-.box-button {
-    background-color: #3882F6;
-    border: solid 2px #F9FAF8;
-    border-radius: 10px;
-    color: #F9FAF8;
-    width: 100px;
-    height: 35px;
-}
 
 footer {
     background-color: #1F2937;
