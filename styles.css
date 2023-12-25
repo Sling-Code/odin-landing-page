@@ -101,7 +101,7 @@ h2 {
 .info-container {
     display: flex;
     justify-content: center;
-    flex: wrap;/*why is this not wrapping*/
+    flex-wrap: wrap;
     gap: 125px;
 
 }
